@@ -8,9 +8,9 @@ export default function Home() {
   return (
    
     <>
-      <Navbar/>,
-      <Herosection/>,
-      <Menu/>,
+      <Navbar/>
+      <Herosection/>
+      <Menu/>
     </>
     
 
