@@ -19,6 +19,9 @@ const Herosection = () => {
             <div className="font-extrabold text-white text-[12rem]"> 
                 Ice Cream
             </div>
+            <div className="flex justify-center" >
+              <button type="button" className="px-9 py-2 bg-transparent font-semibold  outline-2 outline-black">Our Flavors</button>
+            </div>
             
         </div> 
         </div> 
