@@ -18,7 +18,7 @@ const Navbar = () => {
         <ul className="flex gap-4 text-gray-600 font-medium">
           <li><Link href="/" className="hover:text-blue-600 font-semibold font-">logIn</Link></li>
           <li><Link href="/about" className="hover:text-blue-600 font-semibold">Cart</Link></li>
-          <li><button type="button" className="px-2 py-1 bg-transparent outline-2 outline-black">Order Online</button></li>
+          <li><button type="button" className="px-2 py-1 bg-transparent outline-2 outline-black  hover:bg-black hover:text-white transition duration-300">Order Online</button></li>
         
         </ul>
 

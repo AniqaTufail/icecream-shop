@@ -18,7 +18,7 @@ const Herosection = () => {
                 Ice Cream
             </div>
             <div className="flex justify-center" >
-              <button type="button" className="px-9 py-2 bg-transparent font-semibold  outline-2 outline-black">Our Flavors</button>
+              <button type="button" className="px-9 py-2 bg-transparent font-semibold  outline-2 outline-black hover:bg-black hover:text-white transition duration-300">Our Flavors</button>
             </div>
             
         </div> 
