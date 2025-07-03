@@ -5,6 +5,7 @@ import Herosection from "./components/herosection";
 import Menu from "./components/menu";
 import DairyFree from "./components/dairyfree";
 import OurPlace from "./components/ourplace";
+import DeliverOnline from "./components/deliveronline";
 
 export default function Home() {
   return (
@@ -15,6 +16,8 @@ export default function Home() {
       <Menu/>
       <DairyFree/>
       <OurPlace/>
+      <DeliverOnline/>
+      
     </>
     
 
