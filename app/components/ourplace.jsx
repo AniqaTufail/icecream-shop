@@ -22,8 +22,8 @@ const OurPlace = () => {
             </div>
 
         </div>
-            <div className="w-1/2 h-3/12  ">
-                    <Image src={"/place.jpg"} width={736} height={736} alt={"myimage"}/>
+            <div className="w-1/2 h-screen  ">
+                    <Image src={"/place.jpg"} width={800} height={800} alt={"myimage"}/>
             </div>
 
     </div>

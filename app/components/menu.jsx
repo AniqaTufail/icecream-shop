@@ -4,9 +4,9 @@ import Image from 'next/image';
 
 const Menu = () => {
   return (
-    <div className="flex flex-row ">
-        <div className="w-1/2 h-3/12   ">
-            <Image src={"/menu.png"} width={947} height={807} alt={"myimage"}/>
+    <div className="flex flex-row h-screen ">
+        <div className="w-1/2 ">
+             <Image src={"/menu.png"} width={947} height={807} alt={"myimage"}/> 
         </div>
 
         <div className="w-1/2 flex justify-center items-center flex-col ">
