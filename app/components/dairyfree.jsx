@@ -6,7 +6,7 @@ import Image from 'next/image';
 const DairyFree = () => {
   return (
 <div
-  className="h-screen bg-fixed bg-cover flex items-center justify-center"
+  className="h-screen w-screen bg-fixed bg-cover flex items-center justify-center"
   style={{ backgroundImage: "url('/top.jpg')" }}>
   <div>
     <div className="text-5xl text-white semi-bold text-center">Enjoy</div>

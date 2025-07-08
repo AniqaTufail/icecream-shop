@@ -130,5 +130,9 @@
       #ffffff 60px,
       #ffffff 120px
     );
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
   }
 }

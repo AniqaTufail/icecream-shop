@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const OurPlace = () => {
   return (
-    <div className="flex flex-row ">
+    <div className="flex flex-row w-screen">
             <div className="w-1/2 h-screen flex justify-center items-center flex-col ">
             <div className="text-3xl font-semibold " >
                 OUR PLACE

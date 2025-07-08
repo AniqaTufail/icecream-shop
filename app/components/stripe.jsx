@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const Stripes = () => {
   return (
-    <div className="bg-diagonal-stripes h-screen flex items-center ">
+    <div className="bg-diagonal-stripes h-screen w-screen flex items-center ">
         <div className="w-1/4 ">
                     <Image src={"/scoop1.png"} width={640} height={1280} alt={"myimage"}/>
         

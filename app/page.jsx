@@ -9,6 +9,7 @@ import DeliverOnline from "./components/deliveronline";
 import Dessert from "./components/dessert";
 import Stripes from "./components/stripe";
 import './globals.css';
+import Footer from "./components/footer";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <DeliverOnline/>
       <Dessert/>
       <Stripes/>
+      <Footer/>
       
     </>
     

@@ -6,7 +6,7 @@ import Image from 'next/image';
 const DeliverOnline = () => {
   return (
 <div
-  className="h-screen bg-fixed bg-cover flex items-center justify-center"
+  className="h-screen bg-fixed bg-cover flex w-screen items-center justify-center"
   style={{ backgroundImage: "url('/2.jpg')" }}>
   <div>
     <div className="text-5xl text-white semi-bold text-center">Get Yours</div>
