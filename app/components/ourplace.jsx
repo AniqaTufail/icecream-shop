@@ -2,9 +2,10 @@ import React from "react";
 import Link from "next/link";
 import Image from 'next/image';
 
+
 const OurPlace = () => {
   return (
-    <div className="h-screen flex flex-row ">
+    <div className="flex flex-row ">
             <div className="w-1/2 h-screen flex justify-center items-center flex-col ">
             <div className="text-3xl font-semibold " >
                 OUR PLACE
@@ -22,7 +23,7 @@ const OurPlace = () => {
             </div>
 
         </div>
-            <div className="w-1/2 h-screen  ">
+            <div className="w-1/2   ">
                     <Image src={"/place.jpg"} width={800} height={800} alt={"myimage"}/>
             </div>
 

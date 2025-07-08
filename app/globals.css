@@ -120,3 +120,15 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .bg-diagonal-stripes {
+    background-image: repeating-linear-gradient(
+      45deg,
+      #c5f5e5,
+      #c5f5e5 60px,
+      #ffffff 60px,
+      #ffffff 120px
+    );
+  }
+}
