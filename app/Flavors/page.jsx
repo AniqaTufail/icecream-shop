@@ -2,7 +2,7 @@ import { Divide } from "lucide-react";
 import Image from "next/image";
 import Navbar from "../components/navbar";
 import OurFlavors from "./ourflavors";
-import Cards from "./cards";
+import IceCreamFlavors from "./cards";
 
 
 
@@ -13,7 +13,7 @@ export default function Home() {
    
     <>
     <OurFlavors/>
-    <Cards/>
+    <IceCreamFlavors/>
 
     
       

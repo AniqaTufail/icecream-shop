@@ -15,7 +15,7 @@ export default function Home() {
   return (
    
     <>
-      <Navbar/>
+      
       <Herosection/>
       <Menu/>
       <DairyFree/>
@@ -23,7 +23,7 @@ export default function Home() {
       <DeliverOnline/>
       <Dessert/>
       <Stripes/>
-      <Footer/>
+      
       
     </>
     
